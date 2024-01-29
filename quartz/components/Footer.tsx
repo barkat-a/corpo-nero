@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <p>
-          Follow me on X <a href="https://twitter.com/barkatnotes">@barkatnotes </a>, © {year}
+          Follow me on X <a href="https://twitter.com/barkatnotes">@barkatnotes </a>, © {year} "Barkat Ahmed"
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
