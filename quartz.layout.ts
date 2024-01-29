@@ -27,9 +27,39 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.TagList(),
-    Component.Graph(),
+    Component.Graph({
+      localGraph: {
+        linkDistance: 50,
+      },
+      globalGraph: {
+        linkDistance: 50,
+      },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.MobileOnly(Component.RecentNotes({
+      title: "Most recent",
+      limit: 5
+    })),
+    Component.MobileOnly(Component.Explorer({
+      title: "Explore",
+      useSavedState: true,
+      sortFn: (a, b) => {
+        if ((!a.file && !b.file) || (a.file && b.file)) {
+          // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
+          // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
+          return a.displayName.localeCompare(b.displayName, undefined, {
+            numeric: true,
+            sensitivity: "base",
+          })
+        }
+        if (a.file && !b.file) {
+          return 1
+        } else {
+          return -1
+        }
+      },
+    })),
   ],
 }
 
@@ -40,8 +70,29 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.RecentNotes()),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.RecentNotes({
+      title: "Most recent",
+      limit: 5
+    })),
+    Component.DesktopOnly(Component.Explorer({
+      title: "Explore",
+      useSavedState: true,
+      sortFn: (a, b) => {
+        if ((!a.file && !b.file) || (a.file && b.file)) {
+          // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
+          // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
+          return a.displayName.localeCompare(b.displayName, undefined, {
+            numeric: true,
+            sensitivity: "base",
+          })
+        }
+        if (a.file && !b.file) {
+          return 1
+        } else {
+          return -1
+        }
+      },
+    })),
   ],
   right: [],
 }
