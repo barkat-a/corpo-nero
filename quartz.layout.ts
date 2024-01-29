@@ -23,7 +23,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.RecentNotes()),
+    Component.DesktopOnly(Component.RecentNotes({
+      title: "Most recent",
+      limit: 4
+    })),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
