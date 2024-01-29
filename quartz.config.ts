@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Rajdhani",
+        header: "Archivo Black",
         body: "Space Grotesk",
         code: "JetBrains Mono",  
       },
@@ -30,14 +30,14 @@ const config: QuartzConfig = {
           highlight: "rgba(59, 126, 177, 0.1)",
         },
         darkMode: {
-          light: "#332d2d",
-          lightgray: "#504343",
-          gray: "#7b5e5e",
-          darkgray: "#a27777",
-          dark: "#fdfdfd",
-          secondary: "#f7b2b1",
-          tertiary: "#aaf1eb",
-          highlight: "rgba(59, 126, 177, 0.15)"  
+          light: "#1f1d1d",
+          lightgray: "#383333", 
+          gray: "#4D4949",
+          darkgray: "#7C7878",  
+          dark: "#FFFFFF",
+          secondary: "#96BFDA",
+          tertiary: "#2e282a",
+          highlight: "rgba(150, 158, 164, 0.2)", 
         },
       },
     },
