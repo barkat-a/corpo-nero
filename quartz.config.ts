@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Lexend Zetta",
+        header: "Lexend",
         body: "Lexend Deca",
         code: "JetBrains Mono",  
       },
