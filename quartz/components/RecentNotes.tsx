@@ -15,10 +15,10 @@ interface Options {
 }
 
 const defaultOptions = (cfg: GlobalConfiguration): Options => ({
-  title: "Recent Notes",
-  limit: 3,
+  title: "Most Recent",
+  limit: 6,
   linkToMore: false,
-  filter: () => true,
+  filter: (f) => !f.frontmatter?.tags?.includes('exclude'), // filter out excluded tags
   sort: byDateAndAlphabetical(cfg),
 })
 
