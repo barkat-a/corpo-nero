@@ -4,8 +4,8 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Barkat's Notes",
-    enableSPA: true,
-    enablePopovers: true,
+    enableSPA: false,
+    enablePopovers: false,
     analytics: {
       provider: "plausible",
     },

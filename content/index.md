@@ -1,12 +1,13 @@
 ---
-title: Welcome to Quartz
+title: Corpo Nero
+tags:
+  - example-tag
+  - test
 ---
+# Corpo Nero
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Corpo Nero is a unique exploration at the intersection of technology, philosophy, and art. Like a blackbody in physics, I seek to absorb and assimilate diverse ideas, providing fresh insights and unconventional perspectives. By traversing mental territories, I aim to chart new connections between distinct areas of thought. Our goal is to equip readers with new mental models and cognitive tools to navigate our increasingly complex world. 
 
-[[test]]
+Join me on this journey of discovery for a unique blend of ideas you won’t find anywhere else.
+# About Me
 
-
-
-#live #laugh #love
