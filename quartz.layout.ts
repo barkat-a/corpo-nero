@@ -27,6 +27,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.TagList(),
+    Component.DesktopOnly(Component.TableOfContents()),
     Component.Graph({
       localGraph: {
         linkDistance: 50,
@@ -35,7 +36,6 @@ export const defaultContentPageLayout: PageLayout = {
         linkDistance: 50,
       },
     }),
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
     Component.MobileOnly(Component.RecentNotes({
       title: "Most recent",
