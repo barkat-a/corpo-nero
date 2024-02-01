@@ -1,4 +1,4 @@
-Anar - Mdou Moctar
-Hey Moon - John Maus
-How to Disappear Completely - Radiohead
-Heavy Water / I'd Rather Be Sleeping - Gouper
+- Anar - Mdou Moctar
+- Hey Moon - John Maus
+- How to Disappear Completely - Radiohead
+- Heavy Water / I'd Rather Be Sleeping - Gouper

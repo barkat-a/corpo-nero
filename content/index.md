@@ -5,19 +5,12 @@ tags:
   - test
 ---
 ![corp](https://rare-gallery.com/thumbs/915924-painting-nature-of-fear-Nicola-Samori-artwork.jpg)
+## about 
 
-Corpo Nero is a unique exploration at the intersection of technology, philosophy, and art. Like a blackbody in physics, I seek to absorb and assimilate diverse ideas, providing fresh insights and unconventional perspectives. By traversing mental territories, I aim to chart new connections between distinct areas of thought. My intention with this space is to learn in public. I hope to equip readers with new mental models and cognitive tools to navigate our increasingly complex world. 
+Hi, I'm Barkat. I'm an entrepreneur and operator. I usually join start-ups as one of the first 'business' hires. I enjoy tinkering and taking things 0 to 1, starting with 1% idea and 99% iteration. I value agency and grit most. I enjoy working with like-minded, mission driven people.
+## corpo nero
 
-Join me on this journey of discovery for a unique blend of ideas you won’t find anywhere else.
-# About Me
-
-Hi, 
-
-I'm Barkat. I enjoy thinking and writing about 
-
-
-
-
+Corpo Nero is a unique exploration at the intersection of technology, philosophy, and business. Like a blackbody in physics, I seek to absorb and assimilate diverse ideas, providing fresh insights and unconventional perspectives. Thinking in progress.
 ## places to start:
 
 - Check out what I'm reading: [[Currently Reading]]
@@ -26,3 +19,5 @@ I'm Barkat. I enjoy thinking and writing about
 
 ## contact:
 
+write to me: barkata (at) proton (dot) me
+twitter:
