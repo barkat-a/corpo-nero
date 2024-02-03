@@ -1,0 +1,1 @@
+The capital efficiency era of start-ups is the era of genralists. why higher specialists to chase diminishing returns when you cna get someone who will be able to pinch hit variety roles
