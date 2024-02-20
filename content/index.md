@@ -14,13 +14,15 @@ Corpo Nero is a unique exploration at the intersection of technology, philosophy
 ## where to begin
 
 - /now - projects I'm currently working on
-- Check out what I'm reading: [[reading lists]]
+- Check out what I'm reading: [[a list of every blog or newsletter I've ever read]]
 - Why I re
 
 
 ## contact
 
-write to me: barkata (at) proton (dot) me
+**Write to me:** barkata (at) proton (dot) me
+
+**Subscribe to my aperiodic long-form newsletter:**
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/barkat"
@@ -33,7 +35,4 @@ write to me: barkata (at) proton (dot) me
   <input type="email" name="email" id="bd-email" />
   
   <input type="submit" value="Subscribe" />
-  <p>
-    <a href="https://buttondown.email/refer/barkat" target="_blank">Powered by Buttondown.</a>
-  </p>
 </form>
