@@ -5,15 +5,15 @@
 > 
 # why I didn't write
 
-For the longest time, despite wanting to write, I didn't. For one, I always conflated doing poorly in school at writing to being some innate deficiency. English being my second language I was always slow, in a basic sense of reading and writing but overall in terms of processing power of engaging with ideas. I was always translating them in my mind. However, eventually a switch flipped within me, I become more fluent in English than my mother tongue. I'm able to process thoughts, and communicate ideas faster (albeit still slow). 
+For the longest time, despite wanting to write, I didn't. For one, I always conflated doing poorly in school at writing to being some innate deficiency. 
 
-I surrounded myself with people much smarter than me, and I thought I would always have to compete with them so I should find something I can be top percentile in. 
+English being my second language I was always slow. I was slow in all of the traditional benchmarks of reading and writing but felt a slowness in processing information. This eventually, thorough training led me to become more fluent. I picked up a reading habit but still felt inadequate to write. In my mind, I should have some bona fides that make my writing worth reading. Like a teacher at some point should've told me, I should write more. Perhaps if someone around me had followed Tyler Cowen's [advice](https://marginalrevolution.com/marginalrevolution/2018/10/high-return-activity-raising-others-aspirations.html) on the high-return activity of raising others’ aspirations, I would have started sooner.
 
-In order to write with authority, I needed some credentials 
+I found myself surrounded with people much smarter than me, and I thought I would always have to compete with them. No one would read what I write, so I should find something I can be top percentile in. I didn't see this barrier to entry with reading so I went after that. Most people online sharing in the top percentile of pocket readers were around 1M words - I don't know where this put me. Also, I don't know how much I've retained of all these years but I'm glad to have read it and refined my tastes to know what I like reading and where the density of information I want to learn about lies.  My lowest year on pocket is 2.8M words.
 
 ![read-a-lot](http://barkata.com/wp-content/uploads/2024/02/Screenshot-2023-12-05-121051.png)
 
-I thought I was bad at it and didn't think I had anything important to say or it had already been said, better, by someone else. I was weak at writing academically. I see writing now as a way of stress testing ideas and a tool for clarifying thought. I think it quickly shows where there's weak points in my reasoning and I don't know something as well as I thought I did. 
+After becoming a confident reader, I still I'm not a confident thinker or writer. I thought I was bad at it and didn't think I had anything important to say or it had already been said, better, by someone else. I was weak at writing academically. I see writing now as a way of stress testing ideas and a tool for clarifying thought. I think it quickly shows where there's weak points in my reasoning and I don't know something as well as I thought I did. You will still probably find flaws in reasoning and clarity but I hope to be better because of it.
 
 > [!quote]
 > “Kipple is useless objects, like junk mail or match folders after you use the last match or gum wrappers or yesterday's homeopape. When nobody's around, kipple reproduces itself. For instance, if you go to bed leaving any kipple around your apartment, when you wake up the next morning there's twice as much of it. It always gets more and more."
@@ -47,6 +47,9 @@ https://www.henrikkarlsson.xyz/p/search-query
 - Kipplerization 
 	- saying nothing into the abyss
 
+Add something from this POd with PC - on writing making things rigid which makes progress possible: https://youtu.be/WU-lBOAS1VQ?si=SNtC9e77H3z_uRz2&t=5478
+
+Add something from Paulg - https://twitter.com/paulg/status/1760023891437850905
 
 
 

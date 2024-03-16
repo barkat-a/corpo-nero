@@ -1,3 +1,5 @@
+*note: this is ever blog or newsletter I've ever read, not that I necessarily endorse or agree with. I believe in reading widely beyond what conforms with my current outlook/worldview*
+
 - [mattstoller.substack.com](https://mattstoller.substack.com/)
 - [tedgioia.substack.com](https://tedgioia.substack.com/)
 - [palladiummag.com](https://palladiummag.com/)
@@ -13,7 +15,6 @@
 - [lareviewofbooks.org](https://lareviewofbooks.org/)
 - [newstatesman.com](https://www.newstatesman.com/)
 - [paulgraham.com](https://paulgraham.com/)
-- [twitter.com](https://twitter.com/)
 - [blog.gardeviance.org](https://blog.gardeviance.org/)
 - [lesswrong.com](https://www.lesswrong.com/)
 - [readthegeneralist.com](https://www.readthegeneralist.com/)
@@ -442,9 +443,7 @@
 - [metropolisjapan.com](http://metropolisjapan.com/)
 - [apenwarr.ca](http://apenwarr.ca/)
 - [zephoria.substack.com](http://zephoria.substack.com/)
-- [msn.com](http://www.msn.com/)
 - [tim.blog](http://tim.blog/)
-- [robinsloan-main-site.s3-website-us-west-2.amazonaws.com](http://robinsloan-main-site.s3-website-us-west-2.amazonaws.com/)
 - [jonstokes.com](http://www.jonstokes.com/)
 - [angellist.com](http://angellist.com/)
 - [climaticthoughts.com](http://www.climaticthoughts.com/)
@@ -532,11 +531,8 @@
 - [hearmeout.email](http://www.hearmeout.email/)
 - [building.brex.com](http://building.brex.com/)
 - [markusstrasser.org](http://markusstrasser.org/)
-- [recoveringtradfichad.substack.com](http://recoveringtradfichad.substack.com/)
+
 - [apricitas.substack.com](http://apricitas.substack.com/)
-- [przekroj.pl](http://przekroj.pl/)
-- [meduza.io](http://meduza.io/)
-- [seb247.com](http://www.seb247.com/)
 - [thinkingbat.substack.com](http://thinkingbat.substack.com/)
 - [cracked.com](http://www.cracked.com/)
 - [commonplace.knowledgefutures.org](http://commonplace.knowledgefutures.org/)
