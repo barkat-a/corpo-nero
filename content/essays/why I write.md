@@ -1,13 +1,13 @@
 
 > [!quote]
-> “Begin, be bold, and venture to be wise.”
-― Horace
+> “Life is short, art long, opportunity fleeting, experience treacherous, judgment difficult.”
+― Hippocrates
 > 
 # why I didn't write
 
 For the longest time, despite wanting to write, I didn't. For one, I always conflated doing poorly in school at writing to being some innate deficiency. 
 
-English being my second language I was always slow. I was slow in all of the traditional benchmarks of reading and writing but felt a slowness in processing information. This eventually, thorough training led me to become more fluent. I picked up a reading habit but still felt inadequate to write. In my mind, I should have some bona fides that make my writing worth reading. Like a teacher at some point should've told me, I should write more. Perhaps if someone around me had followed Tyler Cowen's [advice](https://marginalrevolution.com/marginalrevolution/2018/10/high-return-activity-raising-others-aspirations.html) on the high-return activity of raising others’ aspirations, I would have started sooner.
+English being my second language I was always slow. I was slow in all of the traditional benchmarks of reading and writing but felt a slowness in processing information. This eventually, thorough training led me to become more fluent. I picked up a reading habit but still felt inadequate to write. In my mind, I should have some bona fides that make my writing worth reading. Like a teacher at some point should've told me, I should write more. I finally see the wisdom behind Tyler Cowen's [advice](https://marginalrevolution.com/marginalrevolution/2018/10/high-return-activity-raising-others-aspirations.html) on the high-return activity of raising others’ aspirations, I would have started sooner.
 
 I found myself surrounded with people much smarter than me, and I thought I would always have to compete with them. No one would read what I write, so I should find something I can be top percentile in. I didn't see this barrier to entry with reading so I went after that. Most people online sharing in the top percentile of pocket readers were around 1M words - I don't know where this put me. Also, I don't know how much I've retained of all these years but I'm glad to have read it and refined my tastes to know what I like reading and where the density of information I want to learn about lies.  My lowest year on pocket is 2.8M words.
 
@@ -66,10 +66,7 @@ I hope to write about or point you to things that you might like which might be 
 
 ![bold](http://barkata.com/wp-content/uploads/2024/02/7edu2p00m9ub1.webp)
 
-> [!quote]
-> “Life is short, art long, opportunity fleeting, experience treacherous, judgment difficult.”
-― Hippocrates
-> 
+
 
 
 Check out [[a list of every blog or newsletter I've ever read]]
