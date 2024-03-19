@@ -1,3 +1,9 @@
+---
+title: music that makes me levitate
+draft: false
+tags:
+  - "#music"
+---
 alternative title: songs I'd want to remind myself of, if/when my memory is impaired
 
 - Anar - Mdou Moctar

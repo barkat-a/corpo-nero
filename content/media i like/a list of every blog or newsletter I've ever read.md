@@ -1,4 +1,10 @@
-*note: this is ever blog or newsletter I've ever read, not that I necessarily endorse or agree with. I believe in reading widely beyond what conforms with my current outlook/worldview*
+---
+title: a list of every blog or newsletter I've ever read
+draft: false
+tags:
+  - "#reading_lists"
+---
+*note: this is every blog or newsletter I've ever read, not that I necessarily endorse or agree with. I believe in reading widely beyond what conforms with my current outlook/worldview*
 
 - [mattstoller.substack.com](https://mattstoller.substack.com/)
 - [tedgioia.substack.com](https://tedgioia.substack.com/)

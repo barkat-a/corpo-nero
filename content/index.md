@@ -1,8 +1,10 @@
 ---
 title: Corpo Nero
 tags:
-  - example-tag
-  - test
+  - "#writing"
+  - "#music"
+  - "#projects"
+  - "#reading_lists"
 ---
 ![corp](https://rare-gallery.com/thumbs/915924-painting-nature-of-fear-Nicola-Samori-artwork.jpg)
 ## about 
@@ -14,9 +16,10 @@ Corpo Nero is a unique exploration at the intersection of technology, philosophy
 ## where to begin
 
 - [[why I write]]
-- /now - projects I'm currently working on
-- Check out what I'm reading: [[a list of every blog or newsletter I've ever read]]
-- 
+- /[[now]] - projects I'm currently working on
+- [[a list of every blog or newsletter I've ever read]]
+- #essays 
+- #reading_lists
 
 
 ## contact
