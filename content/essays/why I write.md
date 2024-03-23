@@ -61,6 +61,7 @@ I hope to add or frame things in unique ways or synthesize combine discipline wh
 > [!quote]
 >
 “The problem with an essay like this is that if I take on the first role and discuss my private reasons for writing, which have to do with wanting to be seen, wanting to be someone, with ambition and desire for success, I will come off as self-centered, shallow, and more than a little stupid, while if I focus on the other two roles, the existential side of writing and the function of writing in society, I will seem conceited, self-important, and perhaps also megalomaniac. But as it happens, writing is precisely about disregarding how something seems in the eyes of others, it is precisely about freeing oneself from all kinds of judgments and from posturing and positioning. Writing is about making something accessible, allowing something to reveal itself. Whatever it is that reveals itself may well be something already known, for there is hardly anything uncharted in the human psyche or in the world anymore, but it has to show itself unguardedly, with a kind of trust.”
+>
 
 -- *Inadvertent*, Karl Ove Knausgaard
 
