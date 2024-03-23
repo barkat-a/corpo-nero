@@ -19,3 +19,4 @@ alternative title: songs I'd want to remind myself of, if/when my memory is impa
 - Farewell Transmission - Songs: Ohia
 - When It's Cold I'd Like to Die - Moby
 - Dragon New Warm Mountain I Believe in You - Big Thief
+- Someone Great - LCD Soundsystem
