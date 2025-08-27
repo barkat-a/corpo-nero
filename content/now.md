@@ -7,7 +7,7 @@ tags:
 
 / Personal
 
-1. Writing - I'm working on a 4-part series on alienation within the context of modern capitalism and bureaucratic structures. I've been watching advancement This is inspired by the work of Mark Fisher, Byung Chul-Han and the fiction novel *The Tartar Steppe*. 
+1. Writing - exercising my writing and thinking muscles as a part of a [writing club](https://quarter--mile.com/Writing-Club)
 2. Reading - I'm slowly working through "*The Rise and Fall of the EAST: How Exams, Autocracy, Stability, and Technology Brought China Success, and Why They Might Lead to Its Decline*" by Yasheng Huang 
 
 / Professional
