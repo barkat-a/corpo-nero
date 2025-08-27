@@ -10,7 +10,6 @@ tags:
 
 > [!quote]
 > Life is short, art long, opportunity fleeting, experience treacherous, judgment difficult.
-
 ― Hippocrates
 # why I read (and why I didn't write)
 
@@ -29,7 +28,7 @@ Reading great writing, only deepened my conviction that I should not write. I ha
 
 > [!quote]
 > “Kipple is useless objects, like junk mail or match folders after you use the last match or gum wrappers or yesterday's homeopape. When nobody's around, kipple reproduces itself. For instance, if you go to bed leaving any kipple around your apartment, when you wake up the next morning there's twice as much of it. It always gets more and more."
-
+> 
 ― Philip K. Dick, *Do Androids Dream of Electric Sheep?*
 
 Initially, seeing LLMs and generative AI advance, I wondered if the future would just be different agents reading and writing to each other. However, I've come out on the other side of these fears and anxieties. I now see writing as a way of stress testing ideas and a tool for clarifying thought. A way of galvanizing and 'steelmanning' arguments. Writing things down, even if no one is reading them, shows holes and gaps in thinking. You may have glossed over a detail which the argument hinges. I now see the value in honing a thought over time. Overcoming the fear and doubt of not knowing something as well as I thought I did and hoping to be better because of it. I'll end with a quote from Patrick Collison, one of the co-founders of Stripe, on how writing makes knowledge more rigid, allowing for ideas to develop faster, and writing in an organization allows discrepancies to be noticed and addressed:
@@ -39,17 +38,15 @@ Initially, seeing LLMs and generative AI advance, I wondered if the future would
 >*I think there are actually really considerable benefits on both sides because for the reader, it's not just that it's maybe more efficient to communicate stuff through text, though in many cases it is. But also there's this intertemporal benefit where future readers can try to understand the through line and the thought process that led us to this point. And I think that's very considerable. But it's also true that I think that, I write things and lots of people write things in order to organize one's own thoughts. And if that ability was taken away from me, I think I'd be meaningfully less effective so how exactly those balance out is hard to say.* 
 >
 >*Maybe... They're not actually separable. That's my answer. Literate cultures are just a different thing. I don't mean literate in some faux intellectual way. I just mean, maybe 'textual cultures' is a better term here where Bruno Latour spoke about how he thinks part of how the printing revolution like Gutenberg's caused the scientific revolution was by making knowledge more rigid. Where before, if some observation didn't match some claim, you can always shrug and be like, "Well, the person who transcribed that thing just made a mistake or whatever." And so by making things more rigid, it's easier to break them. And then you can notice discrepancies between, the theory or the claim or whatever. Patrick Collison (01:30:03): Then you can notice discrepancies between I guess the theory or the claim or whatever and the actual reality. And I think there's some version of that organizationally where, I mean, I'm not drawing that precise parallel, but there are analogous dynamics where the nature of oral cultures and contextual cultures are just quite different. And the kinds of collaboration that are possible and the kinds of consistency that can be achieved, it is just fundamentally different. And is front or rear wheel of the bicycle more valuable? I guess theoretically you can have a unicycle, but as a practical matter, you do just need both.*
-
--- Patrick Collison, on the Dwarkesh Patel Podcast, at 1:28:16
+>
+>-- Patrick Collison, on the Dwarkesh Patel Podcast, at 1:28:16
 # working in public vs. working in stealth
 
 Writing is a powerful tool for clarifying your thoughts, but if you want to accelerate your ideas even further, you ought to embrace the power of working in public. The internet has opened up spaces for niche communities to thrive, allowing writers to connect with like-minded individuals who can help sharpen their thinking and uncover new insights.
 
 When you write in a vacuum, you risk getting caught in self-reinforcing loops and biases. By publishing your writing online, even if it's just a draft, you open yourself up to feedback and criticism that can help you identify blind spots and refine your arguments. This process of learning in public can be uncomfortable at times, but it's the fastest way to get to the right answer.
 
-> [!tip] 
-> Cunningham's Law
-> 
+> [!Cunningham's Law] 
 > *The best way to get the right answer on the Internet is not to ask a question; it's to post the wrong answer.*
 
 Many writers hesitate to publish their work online for fear that no one will read it. While it's true that the internet is a vast space and it can be challenging to find an audience, the benefits of cultivating even a small readership are immense. As Henrik Karlsson notes in his post *[A blog post is a very long and complex search query to find fascinating people and make them route interesting stuff to your inbox](https://www.henrikkarlsson.xyz/p/search-query)*, "The more precise and niche the words I input, the better the internet would match me with people I could forge meaningful relationships with." Finding just a handful of engaged readers who share your niche interests can provide invaluable feedback and help refine your ideas in ways that would be difficult to achieve through other means. 
@@ -62,8 +59,7 @@ I hope to add or frame things in unique ways or to synthesize combine discipline
 > [!quote]
 > The problem with an essay like this is that if I take on the first role and discuss my private reasons for writing, which have to do with wanting to be seen, wanting to be someone, with ambition and desire for success, I will come off as self-centered, shallow, and more than a little stupid, while if I focus on the other two roles, the existential side of writing and the function of writing in society, I will seem conceited, self-important, and perhaps also megalomaniac. But as it happens, writing is precisely about disregarding how something seems in the eyes of others, it is precisely about freeing oneself from all kinds of judgments and from posturing and positioning. Writing is about making something accessible, allowing something to reveal itself. Whatever it is that reveals itself may well be something already known, for there is hardly anything uncharted in the human psyche or in the world anymore, but it has to show itself unguardedly, with a kind of trust.
 >
-
--- *Inadvertent*, Karl Ove Knausgaard
+>-- *Inadvertent*, Karl Ove Knausgaard
 
 Check a few of the pieces I'm working on [[now]]. If you want to receive my aperiodic long-form pieces you can subscribe to my email newsletter.
 
