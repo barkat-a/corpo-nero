@@ -31,9 +31,8 @@ Hi, I’m Barkat — an entrepreneur and operator. I typically join startups ear
 Corpo Nero is a unique exploration at the intersection of technology, philosophy, and business. Like a blackbody in physics, I seek to absorb and assimilate diverse ideas, providing fresh insights and unconventional perspectives. This is a collection of my notes and thinking in progress.
 ## where to begin
 
-- [[why I write]]
+- [[Why I Write]]
 - /[[now]] - projects I'm currently working on
-- [[a list of every blog or newsletter I've ever read]]
 - #essays 
 - #reading_lists
 ## contact

@@ -1,5 +1,5 @@
 ---
-title: why I write
+title: Why I Write
 draft: false
 tags:
   - "#projects"

@@ -5,7 +5,6 @@ tags:
   - "#projects"
   - "#essays"
 ---
-
 ## The Craft of Great Research
 
 Research is done in many different contexts for many different ends. I want to share some principles which I've learned, which can help improve your life through research. As a disclaimer this is not a rigorous framework for conducting research in an academic context. Instead, these are principles of research that can broadly be applied to gathering and organizing information in many different contexts, academic or not. Whatever your ends are -- researching for work, pleasure, or creative pursuit -- this will help inform your approach and getting the most out of it.
@@ -100,8 +99,4 @@ In closing, doing great research is not a result of some innate genius, but rath
   
   <input type="submit" value="Subscribe" />
 </form>
-
-
-
-
 
