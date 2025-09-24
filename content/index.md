@@ -5,7 +5,8 @@ tags:
   - "#music"
   - "#projects"
   - "#reading_lists"
-hide-date: "true"
+date:
+modified:
 ---
 ![corp](https://rare-gallery.com/thumbs/915924-painting-nature-of-fear-Nicola-Samori-artwork.jpg)
 

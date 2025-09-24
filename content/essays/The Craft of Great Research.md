@@ -5,7 +5,7 @@ tags:
   - "#projects"
   - "#essays"
 date: 2025-09-01
-modified: 2025-09-01
+modified: 2025-09-02
 ---
 ## The Craft of Great Research
 

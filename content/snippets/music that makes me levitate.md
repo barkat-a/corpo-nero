@@ -3,8 +3,9 @@ title: music that makes me levitate
 draft: false
 tags:
   - "#music"
+date: 2025-08-01
+modified: 2025-08-01
 ---
-alternative title: songs I'd want to remind myself of, if/when my memory is impaired
 
 - Anar - Mdou Moctar
 - Hey Moon - John Maus

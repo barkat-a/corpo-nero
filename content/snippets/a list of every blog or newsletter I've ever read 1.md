@@ -3,6 +3,8 @@ title: a list of every blog or newsletter I've ever read
 draft: false
 tags:
   - "#reading_lists"
+date: 0225-08-01
+modified: 2025-08-01
 ---
 *note: this is every blog or newsletter I've ever read, not that I necessarily endorse or agree with. I believe in reading widely beyond what conforms with my current outlook/worldview*
 
