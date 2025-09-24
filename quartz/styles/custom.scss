@@ -1201,3 +1201,7 @@ div.toc {
         max-height: calc(100dvh - 2em);
     }
 }
+// Hide date on homepage only
+.index-page .content-meta {
+  display: none;
+}
