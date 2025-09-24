@@ -1,5 +1,5 @@
 ---
-title: Barkat's Notes
+title:
 tags:
   - "#writing"
   - "#music"

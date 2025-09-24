@@ -4,8 +4,8 @@ draft: false
 tags:
   - "#projects"
   - "#essays"
-date: 2025-09-01
-modified: 2025-09-03
+date: 2025-09-04
+modified: 2025-09-04
 ---
 I frequently find myself thinking about various scenes from BBC's nature documentaries, especially in times of hardship. 
 
