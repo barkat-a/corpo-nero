@@ -5,6 +5,8 @@ tags:
   - "#projects"
   - "#writing"
   - "#essays"
+date: 2025-09-01
+modified: 2025-09-01
 ---
 
 

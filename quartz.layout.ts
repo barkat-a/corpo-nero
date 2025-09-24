@@ -28,14 +28,6 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.TagList(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Graph({
-      localGraph: {
-        linkDistance: 50,
-      },
-      globalGraph: {
-        linkDistance: 50,
-      },
-    }),
     Component.Backlinks(),
     Component.MobileOnly(Component.RecentNotes({
       title: "Most recent",
