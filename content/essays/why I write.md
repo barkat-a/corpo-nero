@@ -5,6 +5,8 @@ tags:
   - "#projects"
   - "#writing"
   - "#essays"
+date:
+updated:
 ---
 
 

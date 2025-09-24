@@ -4,6 +4,8 @@ draft: false
 tags:
   - "#projects"
   - "#essays"
+date:
+updated:
 ---
 ## The Craft of Great Research
 
