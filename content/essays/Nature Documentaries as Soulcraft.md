@@ -4,8 +4,6 @@ draft: false
 tags:
   - "#projects"
   - "#essays"
-date:
-updated:
 ---
 I frequently find myself thinking about various scenes from BBC's nature documentaries, especially in times of hardship. 
 
