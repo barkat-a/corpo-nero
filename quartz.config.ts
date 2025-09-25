@@ -7,7 +7,7 @@ const config: QuartzConfig = {
     enableSPA: false,
     enablePopovers: false,
     analytics: {
-      provider: "plausible",
+      provider: "umami", host: 'https://cloud.umami.is/script.js', websiteId:'3f6fa968-8fb9-4a09-b5a3-d4a864a532ab'
     },
     baseUrl: "notes.barkata.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
