@@ -759,8 +759,7 @@ div.folder-container {
 }
 div.folder-container:hover * {
     color: var(--secondary);
-    
-}
+} // <- ADDED MISSING CLOSING BRACE HERE
 div.folder-container div > button {
     font-family: var(--bodyFont);
     text-transform: capitalize;
@@ -768,8 +767,8 @@ div.folder-container div > button {
 div.folder-container div > button p {
     font-size: 1rem;
     margin-left: 0.125em;
-    color: var(--dark)
-}
+    color: var(--dark);
+} // <- ADDED MISSING SEMICOLON HERE
 div#explorer-content {
     position: relative;
     max-height: none !important;
@@ -1200,3 +1199,4 @@ div.toc {
         max-height: calc(100vh - 2em);
         max-height: calc(100dvh - 2em);
     }
+}
