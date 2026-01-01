@@ -15,7 +15,7 @@ One of my goals in 2025 was to write less about "negative" things. This was a gr
 This year I realize LLMs increase the range of what I'm able to read and write about. In order to improve this, I want to write more for LLMs. I take notes in obsidian and revisit <10% of them. In 2026, the plan is to make my reading notes more observable and translate them into notes or mini-essays. Then, link these together to write more long-form pieces by finding interesting connections in my knowledge graph. I learned claude code this year, and will use it to write/edit more using source material that I've accumulated over the years.
 ## consume less information
 
-In the past, [I've read a lot ]([[a list of every blog or newsletter I've ever read]])and wrote very little. Now, I have a better grasp of what I want to read and where to look. In the past, I read a lot out of fomo, hoarding "just-in-case" knowledge. I wrote little because I over developed my taste and knew my writing wasn't good. I want to raise that bar for what I read and lower the bar for writing. 
+In the past, read alot [2] and wrote very little. Now, I have a better grasp of what I want to read and where to look. In the past, I read a lot out of fomo, hoarding "just-in-case" knowledge. I wrote little because I over developed my taste and knew my writing wasn't good. I want to raise that bar for what I read and lower the bar for writing. 
 ## act on my writing impulses
 
 Since starting to write more, I have thoughts throughout the day about interesting ideas which I could write about. I write some of them down and act on <10% of them. Many times, I take an idea write something and realize there's nothing there. This is a good thing as its feedback and I can let that thought go. If I act on these impulses and close more of these idea loops, eventually I will have a good instinct for which ideas have substance.
@@ -25,3 +25,4 @@ Since starting to write more, I have thoughts throughout the day about interesti
 Over the last few years, I've been an idea person and have not been able to see if they have any merit because I don't act on them and they forever live in this ideal state in my imagination. In 2026, I want to have the courage to find out if these ideas are actually any good through writing them out.
 
 [1] I'm inspired [by this essay](https://dreamitlab.com/p/self-schema-theory) from dreamlitlab.
+[2] [[a list of every blog or newsletter I've ever read]]
