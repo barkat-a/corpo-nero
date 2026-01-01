@@ -9,17 +9,11 @@ modified:
 ![corp](https://rare-gallery.com/thumbs/915924-painting-nature-of-fear-Nicola-Samori-artwork.jpg)
 ## about 
 
-Hi, I’m [Barkat](https://barkata.com/about/). 
+hi, I’m [Barkat](https://barkata.com/about/). 
 
-This is a log of my thinking as writing. A lot of it is unrefined, rough and work-in-progress.  
+this is a log of my thinking as writing. a lot of it is unrefined, rough and work-in-progress.  
 
-You can find a log of my reading: [here](https://barkata.com/)
-## where to begin
-
-- [[Why I Write]]
-- [[a list of every blog or newsletter I've ever read]]
-- #essays 
-- #snippets
+read my essays: [here](https://barkata.com/)
 ## contact
 
 **Write to me:** barkat99 (at) gmail (dot) com
