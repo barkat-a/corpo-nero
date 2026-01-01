@@ -30,7 +30,6 @@ beforeBody: [
   right: [
     Component.TagList(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
     Component.MobileOnly(Component.RecentNotes({
       title: "Most recent",
       limit: 5

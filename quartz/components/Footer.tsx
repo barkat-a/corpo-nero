@@ -12,9 +12,8 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <hr />
         <p>
-          Follow me on X <a href="https://twitter.com/barkatnotes">@barkatnotes </a>, © {year} Barkat Ahmed
+          barkat99 (at) gmail (dot) com · <a href="https://twitter.com/barkatnotes">@barkatnotes</a> · © {year} Barkat Ahmed
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
