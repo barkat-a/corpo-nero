@@ -41,4 +41,6 @@ Since starting to write more, I have thoughts throughout the day about interesti
 
 Over the last few years, I've been an idea person and have not been able to see if they have any merit because I don't act on them and they forever live in this ideal state in my imagination. In 2026, I want to have the courage to find out if these ideas are actually any good through writing them out.
 
+xx
+
 [1] I'm inspired [by this essay](https://dreamitlab.com/p/self-schema-theory) from dreamlitlab. [2] [[a list of every blog or newsletter I've ever read]]
