@@ -1,0 +1,3 @@
+- horses as CPUs/compute
+- grass as energy gradient 
+- antifragile mobility

@@ -1,0 +1,3 @@
+- game engine
+- cultural dna fixity mechanism
+- first social media
